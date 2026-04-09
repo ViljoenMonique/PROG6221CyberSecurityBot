@@ -2,7 +2,8 @@
 using System.Threading;
 
 // This is my comment for the commit
-// COMMIT 2: Added custom ASCII art "Your Cyber Friend" in Chatbot.cs
+// COMMIT : Added custom ASCII art "Your Cyber Friend" in Chatbot.cs
+// COMMIT : Added basic cybersecurity response system
 namespace CyberSecurityBot
 {
     /// <summary>
