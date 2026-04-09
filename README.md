@@ -33,3 +33,7 @@ CyberSecurityBot/
 ├── User.cs
 ├── README.md
 └── .github/workflows/dotnet.yml
+
+##  GitHub Actions CI Status
+
+<img src="https://github.com/ViljoenMonique/PROG6221CyberSecurityBot/actions/workflows/dotnet.yml/badge.svg" alt="GitHub Actions CI">
