@@ -1,5 +1,7 @@
 ﻿using System;
 
+// This is my comment for the commit
+// COMMIT 3: Implemented user name input and personalisation in User.cs
 namespace CyberSecurityBot
 {
     /// <summary>
