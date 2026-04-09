@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Media;
 
+// This comment was added to create a new GitHub commit
+// COMMIT 1: Added voice greeting using AudioPlayer class
 namespace CyberSecurityBot
 {
     /// <summary>
