@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Threading;
 
+// This is my comment for the commit
+// COMMIT 2: Added custom ASCII art "Your Cyber Friend" in Chatbot.cs
 namespace CyberSecurityBot
 {
     /// <summary>
